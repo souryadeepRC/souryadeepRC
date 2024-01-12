@@ -16,9 +16,9 @@
 ### Key Repositories 
 <p align="center">
  <a href="https://github.com/souryadeepRC/finance-portal" target="_blank"><img src="https://img.shields.io/github/package-json/v/souryadeepRC/finance-portal/develop?style=flat&logo=git&logoColor=white&label=Finance%20Portal&labelColor=%23057156&color=%2371ddbe" /></a>
- <a href="https://github.com/souryadeepRC/income-tax-calculator" target="_blank"><img src="https://img.shields.io/github/package-json/v/souryadeepRC/finance-portal/develop?style=flat&logo=git&logoColor=white&label=Income%20Tax%20Calculator&labelColor=%23057156&color=%2371ddbe" /></a>
  <a href="https://github.com/souryadeepRC/BudgetManager" target="_blank"><img src="https://img.shields.io/github/package-json/v/souryadeepRC/BudgetManager/main?style=flat&logo=git&logoColor=white&label=Budget%20Manager&labelColor=%23057156&color=%2371ddbe" /></a>
  <a href="https://github.com/souryadeepRC/Tic_Tac_Toe" target="_blank"><img src="https://img.shields.io/github/package-json/v/souryadeepRC/Tic_Tac_Toe/main?style=flat&logo=git&logoColor=white&label=Tic%20Tac%20Toe&labelColor=%23057156&color=%2371ddbe" /></a>
+ <a href="https://github.com/souryadeepRC/income-tax-calculator" target="_blank"><img src="https://img.shields.io/github/package-json/v/souryadeepRC/income-tax-calculator/develop?style=flat&logo=git&logoColor=white&label=Income%20Tax%20Calculator&labelColor=%23057156&color=%2371ddbe" /></a>
 </p>
  
  
