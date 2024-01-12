@@ -10,8 +10,7 @@
 </p> 
 
 ### Deployed on Netlify
-![Netlify](https://img.shields.io/netlify/e9bde38f-792d-4d31-ab97-e149cc9f18fc?style=for-the-badge&label=My%20Gullak&labelColor=%23057156)
-
+<a href="https://my-gullak.netlify.app" target="_blank"><img src="https://img.shields.io/netlify/e9bde38f-792d-4d31-ab97-e149cc9f18fc?style=for-the-badge&label=My%20Gullak&labelColor=%23057156" /></a>
 
 ### Key Repositories 
 <p align="center">
