@@ -60,3 +60,4 @@
 ![image](	https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ### Deployment
 ![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![image](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
