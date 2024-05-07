@@ -11,7 +11,8 @@
 
 ### Deployed on Netlify
 <a href="https://my-gullak.netlify.app" target="_blank"><img src="https://img.shields.io/netlify/e9bde38f-792d-4d31-ab97-e149cc9f18fc?style=for-the-badge&label=My%20Gullak&labelColor=%23057156" /></a>
-
+<a href="https://tax-regime-calculator.netlify.app" target="_blank"><img src="https://img.shields.io/netlify/e9bde38f-792d-4d31-ab97-e149cc9f18fc?style=for-the-badge&label=Income%20Tax%20Calculator&labelColor=%23057156" /></a>
+ 
 ### Key Repositories 
 <p align="center">
  <a href="https://github.com/souryadeepRC/finance-portal" target="_blank"><img src="https://img.shields.io/github/package-json/v/souryadeepRC/finance-portal/develop?style=flat&logo=git&logoColor=white&label=Finance%20Portal&labelColor=%23057156&color=%2371ddbe" /></a>
