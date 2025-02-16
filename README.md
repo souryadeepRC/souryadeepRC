@@ -9,6 +9,9 @@
 	<a href="https://www.youtube.com/AgamirKobita" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCx7Ujh1kZy9xs40geCArRqQ?style=flat&label=Agamir%20Kobita&labelColor=rgb(255%2C%200%2C%200)&color=%23fff4d6" /></a> 
 </p> 
 
+### Deployed on NPM
+<a href="https://www.npmjs.com/package/react-web-theme" target="_blank"><img src="https://img.shields.io/npm/v/react-web-theme?style=for-the-badge&logo=npm&&label=react-web-theme&logoColor=red&logoSize=medium&labelColor=whitesmoke&color=blue" /></a>
+
 ### Deployed on Netlify
 <a href="https://my-gullak.netlify.app" target="_blank"><img src="https://img.shields.io/netlify/e9bde38f-792d-4d31-ab97-e149cc9f18fc?style=for-the-badge&label=My%20Gullak&labelColor=%23057156" /></a>
 <a href="https://tax-regime-calculator.netlify.app" target="_blank"><img src="https://img.shields.io/netlify/e9bde38f-792d-4d31-ab97-e149cc9f18fc?style=for-the-badge&label=Income%20Tax%20Calculator&labelColor=%23057156" /></a>
